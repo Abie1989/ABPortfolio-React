@@ -1,0 +1,68 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "Wordpress",
+    "imageSrc": "skills/wordpress.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+  },
+  {
+    "title": "Joomla",
+    "imageSrc": "skills/joomla.png"
+  },
+  {
+    "title": "Nextjs",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
+    "title": "Vuejs",
+    "imageSrc": "skills/vuejs.png"
+  },
+  {
+    "title": "Nodejs",
+    "imageSrc": "skills/nodejs.png"
+  },
+  {
+    "title": "AndroidSDK",
+    "imageSrc": "skills/android.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Photoshop",
+    "imageSrc": "skills/photoshop.png"
+  },
+  {
+    "title": "Illustrator",
+    "imageSrc": "skills/illustrator.png"
+  },
+  {
+    "title": "MSoffice",
+    "imageSrc": "skills/msofffice.png"
+  }
+  
+  
+]

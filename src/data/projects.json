@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "#",
+    "source": "#"
+  },
+  { 
+    "title": "Project D",
+    "imageSrc": "projects/project.png",
+    "description": "learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "#",
+    "source": "#"
+  }
+]

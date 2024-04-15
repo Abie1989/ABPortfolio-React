@@ -1,0 +1,37 @@
+[
+  {
+    "role": "Senior Frontend Web Developer",
+    "organisation": "Frontendr",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Writing clean, efficient, and maintainable code using HTML, CSS, React JS and JavaScript to implement frontend features and user interactions"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Senior UI-UX Designer",
+    "organisation": "Anyza AI",
+    "startDate": "Aug, 2020",
+    "endDate": "Aug, 2023",
+    "experiences": ["Creating wireframes and prototypes to visualize the layout, structure, and functionality of the user interface"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Graphic Designer",
+    "organisation": "Teach Graph",
+    "startDate": "Apr, 20`19`",
+    "endDate": "Jun, 2020",
+    "experiences": ["use design software such as Adobe Creative Suite to create layouts, illustrations, and artwork for various projects."],
+    "imageSrc": "history/netflix.png"
+  },
+  {
+    "role": "Data entry operator",
+    "organisation": "Zaber & Zubair Fabrics Ltd.",
+    "startDate": "Apr, 2016",
+    "endDate": "Jun, 2018",
+    "experiences": [
+      "crucial in maintaining accurate and up-to-date",
+      "inputting various types of information"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
